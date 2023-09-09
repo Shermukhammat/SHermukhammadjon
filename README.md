@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHermukhammad</h1>
 <h3 align="center">A junior data scientist from Uzbekistan</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shermukhammadjon&show_icons=true&locale=en" alt="shermukhammadjon" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shermukhammadjon&show_icons=true&theme=radical&locale=en" alt="shermukhammadjon" /></p>
 
 
 - 📫 How to reach me **shermukhammadtemirov@gmail.com**
